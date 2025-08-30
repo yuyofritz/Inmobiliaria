@@ -4,7 +4,7 @@
 const propiedades_alquiler = [
     {
         nombre: "Departamento céntrico",
-        src: "assets/img/depto1.jpeg",
+        src: "././assets/img/depto1.jpeg",
         descripcion: "Acogedor departamento en pleno centro.",
         ubicacion: "Santiago Centro",
         habitaciones: 2,
@@ -14,7 +14,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: "Casa en la playa",
-        src: "assets/img/casa1.jpeg",
+        src: "./assets/img/casa1.jpeg",
         descripcion: "Hermosa casa frente al mar.",
         ubicacion: "Viña del Mar",
         habitaciones: 4,
@@ -24,7 +24,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: "Loft moderno",
-        src: "assets/img/loft1.jpeg",
+        src: "./assets/img/loft1.jpeg",
         descripcion: "Espacio moderno y minimalista.",
         ubicacion: "Providencia",
         habitaciones: 1,
@@ -34,7 +34,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: "Casa familiar",
-        src: "assets/img/casa2.jpeg",
+        src: "./assets/img/casa2.jpeg",
         descripcion: "Ideal para familias grandes.",
         ubicacion: "La Florida",
         habitaciones: 5,
@@ -48,7 +48,7 @@ const propiedades_alquiler = [
 const propiedades_venta = [
     {
         nombre: "Casa con piscina",
-        src: "assets/img/casaconpiscina.jpg",
+        src: "./assets/img/casaconpiscina.jpg",
         descripcion: "Amplia casa con patio y piscina.",
         ubicacion: "Las Condes",
         habitaciones: 3,
@@ -58,7 +58,7 @@ const propiedades_venta = [
     },
     {
         nombre: "Departamento nuevo",
-        src: "assets/img/depto2.jpeg",
+        src: "./assets/img/depto2.jpeg",
         descripcion: "A estrenar, excelente ubicación.",
         ubicacion: "Ñuñoa",
         habitaciones: 2,
@@ -68,7 +68,7 @@ const propiedades_venta = [
     },
     {
         nombre: "Casa colonial",
-        src: "assets/img/casa4.jpeg",
+        src: "./assets/img/casa4.jpeg",
         descripcion: "Estilo colonial con terminaciones finas.",
         ubicacion: "La Reina",
         habitaciones: 4,
@@ -78,7 +78,7 @@ const propiedades_venta = [
     },
     {
         nombre: "Penthouse de lujo",
-        src: "assets/img/depto3.jpeg",
+        src: "./assets/img/depto3.jpeg",
         descripcion: "Vista panorámica, exclusivo.",
         ubicacion: "Vitacura",
         habitaciones: 5,
